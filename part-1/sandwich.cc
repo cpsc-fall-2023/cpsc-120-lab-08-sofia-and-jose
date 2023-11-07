@@ -1,7 +1,7 @@
 // Sofia Issa
 // sofiaissa0104@gmail.com
 // @sofiaissa0104
-// Partners: @HeroesMEX
+// Partners: @HeroesMEX @alexistakeuchi
 
 #include <iostream>
 #include <string>
