@@ -1,7 +1,7 @@
 // Sofia Issa
 // sofiaissa0104@gmail.com
 // @sofiaissa0104
-// Partners: @HeroesMEX @alexistakeuchi
+// Partners: @HeroesMEX, @alexistakeuchi
 
 #include <iostream>
 #include <string>
@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
   std::string condiment{arguments.at(3)};
 
   std::cout << "Your Order: "
-           << " A " << protien << " sandwich on " << bread << " with "
-           << condiment << " . ";
+            << " A " << protien << " sandwich on " << bread << " with "
+            << condiment << " . ";
   return 0;
 }
